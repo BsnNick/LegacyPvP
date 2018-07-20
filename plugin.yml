@@ -1,0 +1,5 @@
+name: LegacyPvP
+version: 1.1
+author: BsnNick
+description: No weapon cooldowns!
+main: me.bsn_nick.legacypvp.LegacyPvP
